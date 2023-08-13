@@ -29,7 +29,7 @@
 
 ## :dart: About ##
 
-<a href="https://r00kiead.github.io/faq-accordian-card/">Faq accordian card</a> is website for a demo of questions and answers of a perticular subject. This project was provided by frontend mentor and developed by Adhyatma Dwivedi. <a href="https://r00kiead.github.io/faq-accordian-card/">Faq accordian card</a>
+<a href="https://r00kiead.github.io/faq-accordian-card/">Faq accordian card</a> is website for a demo of questions and answers of a perticular subject. This project was provided by frontend mentor and developed by Adhyatma Dwivedi.
 
 ## :sparkles: Features ##
 
