@@ -29,7 +29,7 @@
 
 ## :dart: About ##
 
-Faq accordian card is website for a demo of questions and answers of a perticular subject. This project was provided by frontend mentor and developed by Adhyatma Dwivedi.
+Faq accordian card is website for a demo of questions and answers of a perticular subject. This project was provided by frontend mentor and developed by Adhyatma Dwivedi. <a href="https://r00kiead.github.io/faq-accordian-card/">Website</a>
 
 ## :sparkles: Features ##
 
